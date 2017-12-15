@@ -1,4 +1,4 @@
-**Probability and Computing Randomized Algorithms and Probabilistic Analysis**
+<h1>Probability and Computing Randomized Algorithms and Probabilistic Analysis</h1>
 
 **Michael Mitzenmacher & Eli Upfal**
 
