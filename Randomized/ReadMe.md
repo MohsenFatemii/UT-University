@@ -1,4 +1,6 @@
-Exercise 1.26: Tic-tac-toe always ends up in a tie if players play optimally. Instead,
+**Exercise 1.26:**
+
+Tic-tac-toe always ends up in a tie if players play optimally. Instead,
 we may consider random variations of tic-tac-toe.
 
 (a) First variation: Each of the nine squares is labeled either X or 0 according to an
